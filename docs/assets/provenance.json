@@ -1,0 +1,11 @@
+{
+  "hero": {
+    "path": "docs/assets/book-club-manager-hero.png",
+    "sha256": "a2a807759eb91fd90b1baa8c0c64763e94f296bc98145face98489129782603d",
+    "created": "2026-09-19",
+    "method": "ChatGPT image generation",
+    "personalSourceImages": false,
+    "edited": false
+  },
+  "demo": "All people, books, opinions, meetings, goals and predictions were authored as invented public examples, independently of private club records."
+}

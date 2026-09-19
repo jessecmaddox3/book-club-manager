@@ -1,0 +1,8 @@
+{
+  "meetingNumber": 7,
+  "dates": ["2035-05-08", "2035-05-09"],
+  "nominees": [
+    {"slug":"paper-island","title":"Paper Island","author":"Invented Author One","recommendedBy":"Remy","description":"An invented mapmaker discovers an island that appears only on unfinished maps.","caseFor":"A small cast and plenty to discuss.","caseAgainst":"A deliberately quiet opening.","pages":180},
+    {"slug":"clock-orchard","title":"Clock Orchard","author":"Invented Author Two","recommendedBy":"Juniper","description":"A fictional gardener grows trees whose fruit keeps time.","caseFor":"An unusual setting with a clear central mystery.","caseAgainst":"The middle takes its time.","pages":220}
+  ]
+}

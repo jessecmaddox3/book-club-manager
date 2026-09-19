@@ -1,0 +1,10 @@
+{
+  "name": "Lantern Reading Room",
+  "tagline": "A good book. A better conversation.",
+  "foundedYear": 2032,
+  "timeZone": "America/Chicago",
+  "beverageLabel": "drinks",
+  "meetingTime": "19:30",
+  "meetingMinutes": 120,
+  "demoDate": "2035-04-01"
+}

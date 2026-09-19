@@ -1,0 +1,3 @@
+ALTER TABLE club_metadata ADD COLUMN demo_seed_version INTEGER NOT NULL DEFAULT 0;
+ALTER TABLE members ADD COLUMN revision INTEGER NOT NULL DEFAULT 1 CHECK (revision > 0);
+ALTER TABLE meetings ADD COLUMN revision INTEGER NOT NULL DEFAULT 1 CHECK (revision > 0);
